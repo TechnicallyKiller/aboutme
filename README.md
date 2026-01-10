@@ -63,32 +63,8 @@ contract DivyanshhKalra {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechnicallyKiller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyKiller&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechnicallyKiller&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/TechnicallyKiller)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TechnicallyKiller&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/TechnicallyKiller)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
